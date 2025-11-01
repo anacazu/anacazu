@@ -7,7 +7,7 @@ During my studies and research, my interests have evolved from commputer simulat
 
 At the moment I am finishing my PhD in experimental Chemical Physics. I have worked with different techniques in laser spectroscopy to understand molecules better. Nowadays, we can study single molecules and processes that happen in less than 1 ps!
 
-👣 My path in research software
+<h2> 👣 My path in research software </h2>
 
 - I did my bachelor's internship in a materials modeling group, performing molecular dynamics simulations to study which type of defects can form in the silicon wafers inside every piece of modern technlogy. Here I learned a lot about the Linux environment and C language.
   
@@ -15,16 +15,14 @@ At the moment I am finishing my PhD in experimental Chemical Physics. I have wor
   
 - For my PhD, I decided to continue on the experimental side, but always with interest and curiosity in the data analysis. In the last two years, I have become even closer to the research software field, since I'm responsible for managing the Data Acquisition of my research group. I have made it possible to control several instruments from the lab PC (oscilloscopes, Arduino boards, voltage supplies, etc). This has made the experiment more efficient and allowed new types of measurements. In one case, I also adapted the Data Acqusition Software to the requirements of an external researcher who was using our setup as part of a collaboration.
 
-
-🌱 A personal project I'm building
+<h2> 🌱 A personal project I'm building </h2>
 
 - My experience with Data Acquisition Software has sparked my curiosity and interest in this field, in particular in the LabView graphical programming environment.
 - My aim is to build a national network to provide training and support for researchers, and help them make their experiments more advanced and efficient by improving their Data Acquisition Software.
 - You can read more about this on my [conDAQtor project website](https://anacazu.github.io/condaqtor/).
 - I am looking for collaborators, so please reach out if you'd like to know more! 🤝
 
-
-🧰 Some software tools I have used
+<h2> 🧰 Some software tools I have used </h2>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="" width="40" height="40"/>
@@ -57,11 +55,11 @@ At the moment I am finishing my PhD in experimental Chemical Physics. I have wor
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="gitlab" width="40" height="40"/>
 </p>
 
-⚡ Fun fact
+<h2> ⚡ Fun fact </h2>
 
 I love learning, and this also shows in my hobbies. In the last years I've started playing piano, learned 3d modeling in Blender, bought a 3d printer and embarked on many DIY projects (with different success rates). 
 
-📫 How to reach me
+<h2> 📫 How to reach me </h2>
 
 I am always open for a discussion around the Faculty of Science at Radboud University
 
