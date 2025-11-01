@@ -66,5 +66,5 @@ I am always open for a discussion around the Faculty of Science at Radboud Unive
 You can also contact me at ana.caballo@proton.me
 
 <p align="center">
-  <img width="2000" height="auto" alt="octocat-1762011037332" src="https://github.com/user-attachments/assets/97042337-b368-4b7e-a047-4466a526e17f" />
+  <img width="100" height="auto" alt="octocat-1762011037332" src="https://github.com/user-attachments/assets/97042337-b368-4b7e-a047-4466a526e17f" />
 </p>
