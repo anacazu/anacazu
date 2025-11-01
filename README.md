@@ -3,7 +3,7 @@
 Hi there! I'm Ana Caballo, a phycisist who likes the overlap of experimental research with other areas.
 During my studies and research, my interests have evolved from commputer simulations, to performing experiments in a laser lab myself, and more recently towards supporting others in improving the design of the experiment and the software behind it.
 
-🥼 My current research job
+<h2> 🥼 My current research job </h2>
 
 At the moment I am finishing my PhD in experimental Chemical Physics. I have worked with different techniques in laser spectroscopy to understand molecules better. Nowadays, we can study single molecules and processes that happen in less than 1 ps!
 
@@ -25,8 +25,6 @@ At the moment I am finishing my PhD in experimental Chemical Physics. I have wor
 
 
 🧰 Some software tools I have used
-
-Programming languages
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="" width="40" height="40"/>
