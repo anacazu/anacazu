@@ -1,7 +1,7 @@
 # About me
 
 Hi there! I'm Ana Caballo, a phycisist who likes the overlap of experimental research with other areas.
-This means that my interests are shifting from doing the experiment myself towards supporting otheres in improving the design of the experiment and the software behind it.
+This means that my interests are shifting from doing the experiment myself towards supporting others in improving the design of the experiment and the software behind it.
 
 🥼 My current research job
 
