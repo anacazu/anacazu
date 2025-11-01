@@ -39,29 +39,28 @@ Programming languages
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="" width="40" height="40"/>  
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="gitlab" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="gitlab" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
 </p>
-<!--  
-  
 
-  
-  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mattermost/mattermost-original.svg
-  
-  
-  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg
-  <img src="" alt="" width="45" height="45"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="gitlab" width="40" height="40"/>
+</p>
 
--->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="gitlab" width="40" height="40"/>
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="gitlab" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="gitlab" width="40" height="40"/>
+</p>
 
 ⚡ Fun fact
 
