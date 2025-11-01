@@ -25,20 +25,29 @@ At the moment I am finishing my PhD in experimental Chemical Physics. I have wor
 
 🧰 Some software tools I have used
 
+Programming languages
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original-wordmark.svg" alt="" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original.svg" alt="" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="" width="40" height="40"/>
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
 </p>
 <!--  
-  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg
+  
+
+  
   https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mattermost/mattermost-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg
+  
+  
   https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg
   https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg
   https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg
