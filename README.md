@@ -13,7 +13,7 @@ At the moment I am finishing my PhD in experimental Chemical Physics. I have wor
   
 - For my master's internship, I decided to explore the world of experimental physics. But my experience in C language came out handy when I was asked to integrate a motorized element of the experiment into the existing Data Acquisition Software provided by the detector manufacturer. By doing so, I enabled a type of experiment that was not possible in our setup before.
   
-- For my PhD, I decided to continue on the experimental side, but always with interest and curiosity in the data analysis. In the last two years, I have become even closer to the research software field, since I'm responsible for managing the Data Acquisition of my research group. I have made it possible to control several instruments from the lab PC (oscilloscopes, Arduino boards, voltage supplies, etc). This has made the experiment more efficient and allowed new types of measurements. In one case, I also adapted the Data Acqusition Software to the requirements of an external researcher who was using our setup as part of a collaboration.
+- For my PhD, I decided to continue on the experimental side, and learned about the technical side of things (prototyping and 3d printing). In the last two years, I have become closer to the research software field, since I'm responsible for managing the Data Acquisition of my research group. I have made it possible to control several lab instruments from the PC instead of manually (oscilloscopes, Arduino boards, voltage supplies, etc). This has made the experiment more efficient and allowed new types of measurements. In one case, I improved the Data Acqusition Software to meet the requirements of an external researcher who was using our setup as part of a collaboration.
 
 <h2> 🌱 A personal project I'm building </h2>
 
@@ -64,3 +64,7 @@ I love learning, and this also shows in my hobbies. In the last years I've start
 I am always open for a discussion around the Faculty of Science at Radboud University
 
 You can also contact me at ana.caballo@proton.me
+
+<p align="center">
+  <img width="2000" height="auto" alt="octocat-1762011037332" src="https://github.com/user-attachments/assets/97042337-b368-4b7e-a047-4466a526e17f" />
+</p>
