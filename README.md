@@ -22,13 +22,15 @@ At the moment I am finishing my PhD in experimental Chemical Physics. I have wor
 - You can read more about this on my [conDAQtor project website](https://anacazu.github.io/condaqtor/).
 - I am looking for collaborators, so please reach out if you'd like to know more! 🤝
 
-<!--
+
 🧰 Some software tools I have used
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original-wordmark.svg" alt="" width="45" height="45"/>
+</p>
+<!--  
   https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg
   https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg
   https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original.svg
@@ -48,7 +50,7 @@ At the moment I am finishing my PhD in experimental Chemical Physics. I have wor
   https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg
   https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg
   <img src="" alt="" width="45" height="45"/>
-</p>
+
 -->
 
 ⚡ Fun fact
@@ -58,4 +60,5 @@ I love learning, and this also shows in my hobbies. In the last years I've start
 📫 How to reach me
 
 I am always open for a discussion around the Faculty of Science at Radboud University
+
 You can also contact me at ana.caballo@proton.me
