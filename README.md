@@ -13,7 +13,7 @@ At the moment I am finishing my PhD in experimental Chemical Physics. I have wor
   
 - For my master's internship, I decided to explore the world of experimental physics. But my experience in C language came out handy when I was asked to integrate a motorized element of the experiment into the existing Data Acquisition Software provided by the detector manufacturer. By doing so, I enabled a type of experiment that was not possible in our setup before.
   
-- For my PhD, I decided to continue on the experimental side. But always with interest and curiosity in the data analysis. In the last two years, I have become even closer to the research software field, since I am the responsible person for managing the Data Acquisition of the group. I have made it possible to control several instruments from the lab PC (oscilloscopes, Arduino boards, voltage supplies, etc). This has made the experiment more efficient and allowed new types of measurements. In one case, I also adapted the Data Acqusition Software to the requirements of an external researcher who was using our setup as part of a collaboration.
+- For my PhD, I decided to continue on the experimental side. But always with interest and curiosity in the data analysis. In the last two years, I have become even closer to the research software field, since I am the person responsible of managing the Data Acquisition of the group. I have made it possible to control several instruments from the lab PC (oscilloscopes, Arduino boards, voltage supplies, etc). This has made the experiment more efficient and allowed new types of measurements. In one case, I also adapted the Data Acqusition Software to the requirements of an external researcher who was using our setup as part of a collaboration.
 
 
 🌱 A personal project I'm building
@@ -22,8 +22,9 @@ At the moment I am finishing my PhD in experimental Chemical Physics. I have wor
 - You can read more about this on my [conDAQtor project website](https://anacazu.github.io/condaqtor/).
 - I am looking for collaborators, so please reach out if you'd like to know more! 🤝
 
-🧰 Some software tools I have used
 <!--
+🧰 Some software tools I have used
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="45" height="45"/>
@@ -50,23 +51,11 @@ At the moment I am finishing my PhD in experimental Chemical Physics. I have wor
 </p>
 -->
 
-⚡ Fun fact: I love learning, and this also shows in my hobbies. In the last years I've started playing piano, learned 3d modeling in Blender, bought a 3d printer and embarked on many DIY projects (with different success rates). 
+⚡ Fun fact
 
-📫 How to reach me: 
+I love learning, and this also shows in my hobbies. In the last years I've started playing piano, learned 3d modeling in Blender, bought a 3d printer and embarked on many DIY projects (with different success rates). 
+
+📫 How to reach me
+
 I am always open for a discussion around the Faculty of Science at Radboud University
-Feel free to email me at ana.caballo@proton.me
-
-<!--
-**anacazu/anacazu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 
-- 😄 Pronouns: ...
-- 
--->
+You can also contact me at ana.caballo@proton.me
