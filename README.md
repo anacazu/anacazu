@@ -1,7 +1,7 @@
 # About me
 
-Hi there! I'm Ana Caballo, a phycisist who likes the overlap of experimental research with other areas.
-During my studies and research, my interests have evolved from commputer simulations, to performing experiments in a laser lab myself, and more recently towards supporting others in improving the design of the experiment and the software behind it.
+Hi there! I'm Ana Caballo, a physicist who likes the overlap of experimental research with other areas.
+During my studies and research, my interests have evolved from computer simulations, to performing experiments in a laser lab myself, and more recently towards supporting others in improving the design of the experiment and the software behind it.
 
 <h2> 🥼 My current research job </h2>
 
@@ -9,11 +9,11 @@ At the moment I am finishing my PhD in experimental Chemical Physics. I have wor
 
 <h2> 👣 My path in research software </h2>
 
-- I did my bachelor's internship in a materials modeling group, performing molecular dynamics simulations to study which type of defects can form in the silicon wafers inside every piece of modern technlogy. Here I learned a lot about the Linux environment and C language.
+- I did my bachelor's internship in a materials modeling group, performing molecular dynamics simulations to study which type of defects can form in the silicon wafers inside every piece of modern technology. Here I learned a lot about the Linux environment and C language.
   
 - For my master's internship, I decided to explore the world of experimental physics. But my experience in C language came out handy when I was asked to integrate a motorized element of the experiment into the existing Data Acquisition Software provided by the detector manufacturer. By doing so, I enabled a type of experiment that was not possible in our setup before.
   
-- For my PhD, I continued as an experimentalists, and learned about the technical side of things (prototyping and 3d printing). In the last two years, I have become closer to the research software field, since I'm responsible for managing the Data Acquisition of my research group. I have made it possible to control several lab instruments from the PC instead of manually (oscilloscopes, Arduino boards, voltage supplies, etc). This has made the experiment more efficient and allowed new types of measurements. In one case, I improved the Data Acqusition Software to meet the requirements of an external researcher who was using our setup as part of a collaboration.
+- For my PhD, I continued as an experimentalist, and learned about the technical side of things (prototyping and 3d printing). In the last two years, I have become closer to the research software field, since I'm responsible for managing the Data Acquisition of my research group. I have made it possible to control several lab instruments from the PC instead of manually (oscilloscopes, Arduino boards, voltage supplies, etc). This has made the experiment more efficient and allowed new types of measurements. In one case, I improved the Data Acquisition software to meet the requirements of an external researcher who was using our setup as part of a collaboration.
 
 <h2> 🌱 A personal project I'm building </h2>
 
