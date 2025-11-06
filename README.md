@@ -17,8 +17,8 @@ At the moment I am finishing my PhD in experimental Chemical Physics. I have wor
 
 <h2> 🌱 A personal project I'm building </h2>
 
-- My experience with Data Acquisition Software has sparked my curiosity and interest in this field, in particular in the LabView graphical programming environment.
-- My aim is to build a national network to provide training and support for researchers, and help them make their experiments more advanced and efficient by improving their Data Acquisition Software.
+- My experience with Data Acquisition software has sparked my curiosity and interest in this field, in particular in the LabView graphical programming environment.
+- My aim is to build a national network to provide training and support for researchers, and help them make their experiments more advanced and efficient by improving their Data Acquisition software.
 - You can read more about this on my [conDAQtor project website](https://anacazu.github.io/condaqtor/).
 - I am looking for collaborators, so please reach out if you'd like to know more! 🤝
 
