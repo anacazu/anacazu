@@ -61,9 +61,9 @@ I love learning, and this also shows in my hobbies. In the last years I've start
 
 <h2> 📫 How to reach me </h2>
 
-I am always open for a discussion around the Faculty of Science at Radboud University.
+You can contact me at ana.caballo@proton.me .
 
-You can also contact me at ana.caballo@proton.me .
+I am always open for a chat around the Faculty of Science at Radboud University or online.
 
 <p align="center">
   <img width="200" height="auto" alt="octocat-1762011037332" src="https://github.com/user-attachments/assets/97042337-b368-4b7e-a047-4466a526e17f" />
